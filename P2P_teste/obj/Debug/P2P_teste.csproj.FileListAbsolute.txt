@@ -1,0 +1,11 @@
+D:\Projetos\P2P_teste\P2P_teste\bin\Debug\P2P_teste.exe.config
+D:\Projetos\P2P_teste\P2P_teste\bin\Debug\P2P_teste.exe
+D:\Projetos\P2P_teste\P2P_teste\bin\Debug\P2P_teste.pdb
+D:\Projetos\P2P_teste\P2P_teste\obj\Debug\P2P_teste.csproj.AssemblyReference.cache
+D:\Projetos\P2P_teste\P2P_teste\obj\Debug\P2P_teste.Form1.resources
+D:\Projetos\P2P_teste\P2P_teste\obj\Debug\P2P_teste.profile.resources
+D:\Projetos\P2P_teste\P2P_teste\obj\Debug\P2P_teste.Properties.Resources.resources
+D:\Projetos\P2P_teste\P2P_teste\obj\Debug\P2P_teste.csproj.GenerateResource.cache
+D:\Projetos\P2P_teste\P2P_teste\obj\Debug\P2P_teste.csproj.CoreCompileInputs.cache
+D:\Projetos\P2P_teste\P2P_teste\obj\Debug\P2P_teste.exe
+D:\Projetos\P2P_teste\P2P_teste\obj\Debug\P2P_teste.pdb
